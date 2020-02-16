@@ -65,12 +65,13 @@ blockquote {
     margin: 1em 40px;
 }
 dfn {
-    font-style: italic;
+    font-style: normal;
 }
 hr {
-    display: block;
+
+    display: inline-block;
     height: 1px;
-    border: 0;
+    border: 2;
     border-top: 3px solid rgb(230, 87, 87);
     margin: 1em 0;
     padding: 0;
