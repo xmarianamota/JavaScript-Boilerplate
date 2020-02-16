@@ -68,12 +68,13 @@ dfn {
     font-style: normal;
 }
 hr {
+
     display: inline-block;
-    height: 3px;
+    height: 1px;
     border: 2;
-    border-top: 3px solid rgb(51, 3, 128);
-    margin: none;
-    padding: 1px;
+    border-top: 3px solid rgb(230, 87, 87);
+    margin: 1em 0;
+    padding: 0;
 }
 ins {
     background: #ff9;
